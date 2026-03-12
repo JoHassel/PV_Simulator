@@ -6,7 +6,7 @@ This is an adjustable power supply and load with USB logging feature. The power 
 
 ## Setup
 
-![Setup of PV Simulator](./03_Graphics/Setup.png)
+![Setup of PV Simulator](./03_Graphics/Setup_1.png)
 
 ## Hardware
 
