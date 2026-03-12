@@ -1,2 +1,0 @@
-PCB Connections
-Design Violations
